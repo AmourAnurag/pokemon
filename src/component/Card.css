@@ -1,0 +1,16 @@
+/* src/components/Card.css */
+.card {
+    border: 1px solid #ccc;
+    background-color: azure;
+    padding: 20px;
+    width: 200px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border-radius: 12px;
+  }
+  
+  .card img {
+    width: 100px;
+    height: 100px;
+  }
+  
